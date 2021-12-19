@@ -5,6 +5,11 @@ function App() {
   return (
     <div className='root'>
       <Header />
+      <div className='nameDiv'>
+        <span className='amanText'>AMAN</span>
+        <span className='vanganiText'>VANGANI</span>
+      </div>
+      <span className='softwareDeveloperText'>SOFTWARE DEVELOPER</span>
     </div>
   );
 }

@@ -1,4 +1,37 @@
 .root {
   display: flex;
   flex-direction: column;
+  margin-left: 60px;
+}
+
+.nameDiv {
+  margin-top: 40px;
+}
+
+.amanText {
+  font-family: 'Raleway';
+  color: var(--dark-yellow);
+  font-size: 50px;
+  letter-spacing: 3px;
+}
+
+.vanganiText {
+  font-family: 'Raleway';
+  color: var(--white);
+  font-size: 50px;
+  letter-spacing: 3px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.softwareDeveloperText {
+  font-family: 'Raleway';
+  color: var(--blue);
+  font-size: 20px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+  background-color: var(--dark-yellow);
+  width: 25%;
+  padding: 10px;
+  margin-top: 10px;
 }
