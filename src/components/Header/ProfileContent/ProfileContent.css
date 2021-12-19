@@ -1,0 +1,57 @@
+.profileContentDiv {
+  flex: 0.8;
+  background-color: var(--yellow);
+  border-bottom-left-radius: 40px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.contentHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.profileHeadingText {
+  font-family: 'Poppins';
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-left: 10px;
+  color: var(--blue);
+}
+
+.profileText {
+  font-family: 'Poppins';
+  font-weight: 300;
+  margin-top: 20px;
+  width: 90%;
+}
+
+.dataGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  font-family: 'Poppins';
+  font-weight: 400;
+  margin-top: 30px;
+  gap: 10px;
+}
+
+.gridItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.itemImage {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+  background-color: var(--blue);
+  border-radius: 5px;
+}
+
+.itemText {
+  margin-left: 10px;
+}

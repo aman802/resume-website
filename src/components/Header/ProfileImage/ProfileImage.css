@@ -1,0 +1,17 @@
+.imageDiv {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 10px solid var(--dark-yellow);
+  margin-top: 40px;
+  margin-left: 60px;
+}
+
+.amanImage {
+  width: 100%;
+  height: auto;
+}
