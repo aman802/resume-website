@@ -22,12 +22,3 @@
   font-weight: 300;
   margin-top: 10px;
 }
-
-.pointText {
-  margin-left: 10px;
-  margin-top: 10px;
-  color: var(--white);
-  font-size: 18px;
-  font-family: 'Poppins';
-  font-weight: 300;
-}

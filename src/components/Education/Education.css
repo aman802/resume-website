@@ -23,12 +23,3 @@
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-
-.pointText {
-  margin-left: 10px;
-  margin-top: 10px;
-  color: var(--white);
-  font-size: 18px;
-  font-family: 'Poppins';
-  font-weight: 300;
-}

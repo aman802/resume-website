@@ -1,0 +1,22 @@
+.skillsDiv {
+  margin: 40px 0;
+}
+
+.skillsItemDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.skillsGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 20px;
+  width: 70%;
+}
+
+.skillText {
+  color: var(--white);
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 18px;
+}
