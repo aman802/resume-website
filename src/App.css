@@ -4,6 +4,12 @@
   margin-left: 60px;
 }
 
+.rootContentDiv {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+}
+
 .nameDiv {
   margin-top: 40px;
 }
@@ -31,7 +37,8 @@
   font-weight: bolder;
   letter-spacing: 3px;
   background-color: var(--dark-yellow);
-  width: 25%;
+  width: 30%;
   padding: 10px;
   margin-top: 10px;
+  text-align: center;
 }

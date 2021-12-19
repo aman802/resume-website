@@ -1,0 +1,24 @@
+.listItemNameDiv {
+  display: flex;
+  flex-direction: row;
+  background-color: var(--dark-yellow);
+  width: 30%;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.listItemNameTitle {
+  font-size: 25px;
+  font-family: 'Poppins';
+  margin-left: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--blue-text);
+}
+
+.listItemNameLinkImage {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  cursor: pointer;
+}
