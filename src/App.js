@@ -1,5 +1,6 @@
 import Header from './components/Header/Header';
 import WorkExperience from './components/WorkExperience/WorkExperience';
+import Education from './components/Education/Education';
 import './App.css';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         </div>
         <span className='softwareDeveloperText'>SOFTWARE DEVELOPER</span>
         <WorkExperience />
+        <Education />
       </div>
     </div>
   );

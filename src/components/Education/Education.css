@@ -1,0 +1,34 @@
+.educationDiv {
+  margin-top: 40px;
+}
+
+.educationItemDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.educationTimeText {
+  font-size: 16px;
+  color: var(--white);
+  font-family: 'Poppins';
+  font-weight: 300;
+  margin-top: 5px;
+}
+
+.educationTitleText {
+  font-size: 20px;
+  color: var(--white);
+  font-family: 'Poppins';
+  margin-top: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.pointText {
+  margin-left: 10px;
+  margin-top: 10px;
+  color: var(--white);
+  font-size: 18px;
+  font-family: 'Poppins';
+  font-weight: 300;
+}
